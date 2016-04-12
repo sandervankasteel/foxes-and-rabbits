@@ -1,1 +1,4 @@
-# foxes-and-rabbits
+Vossen-Konijnen
+===============
+
+Vossen &amp; Konijnen Project Hanze HogeSchool
